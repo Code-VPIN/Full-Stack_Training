@@ -1,1 +1,1 @@
-Web Code Ground Project
+Full Stack web development training repository.
