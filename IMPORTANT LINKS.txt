@@ -1,0 +1,9 @@
+important links for learning advanced tools
+
+for CSS
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+favicon.cc to create your faourate icon
+google fonts for fonts design and selection
+to generate default paragraph go to lorem epsum web site
+for icon go to flaticon.com
+for animated icon go to giphy.com
